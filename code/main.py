@@ -1,6 +1,6 @@
+import os
 import whisper
 import ollama
-import os
 
 
 def transcribe_and_improve(audio_file, language=None):
